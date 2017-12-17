@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /
+baseurl:/
 title: Opensource team6
 description: "한양대 에리카 ICT융합학부 오픈소스 과목 포트폴리오용 블로그입니다."
 keywords: 'jekyll,theme,gem-based,blog'
@@ -33,9 +33,9 @@ author:
   email:LeeHaKyeong@naver.com
   social_links:
     - name: facebook
-      url: 
+      url:
     - name: github
-      url: 
+      url: https://github.com/yizeng/jekyll-theme-simple-texture
     - name: instagram
       url:
     - name: linkedin

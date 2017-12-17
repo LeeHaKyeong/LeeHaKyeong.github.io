@@ -8,10 +8,7 @@ redirect_from:
   - /2017/12/17/
 ---
 
-> This is code blocks and highlighting test page for [Simple Texture][Simple Texture] theme.
 
-* Kramdown table of contents
-{:toc .toc}
 
 # Code Spans
 

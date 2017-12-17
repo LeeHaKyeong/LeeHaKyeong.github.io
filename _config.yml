@@ -23,14 +23,14 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: Opensource team6
+description: "한양대 에리카 ICT융합학부 오픈소스 과목 포트폴리오용 블로그입니다."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name:LeeHaKyeong
+  job_title: Student
+  location: Ansan
+  email: LeeHaKyeong@naver.com
   social_links:
     - name: facebook
       url:
@@ -47,9 +47,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>Opensource team6</h1>
+  section2: <h2>한양대 에리카 ICT융합학부 오픈소스 과목 포트폴리오용 블로그입니다.</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/LeeHaKyeong" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 

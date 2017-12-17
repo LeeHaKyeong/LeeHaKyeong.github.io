@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "A quick demo of Simple Texture theme's code highlighting features"
-description: "A quick demo of Simple Texture theme's code highlighting features"
+title: "PICTURE"
+description: "활동했던 사진입니다."
 categories: [demo]
 tags: [demo, jekyll]
 redirect_from:
-  - /2017/05/27/
+  - /2017/12/17/
 ---
 
 > This is code blocks and highlighting test page for [Simple Texture][Simple Texture] theme.
@@ -15,66 +15,40 @@ redirect_from:
 
 # Code Spans
 
-This is a test for inline codeblocks like `C:/Ruby23-x64` or `SELECT  "offices".* FROM "offices" `
+활동했던 사진입니다.
 
-Here is a literal `` ` `` backtick.
-And here is a Ruby code fragment `x = Class.new`{:.language-ruby}
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20171205_183234012%20(1).jpg?raw=true)
 
-# Fenced Code Blocks
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20171205_183234014%20(1).jpg?raw=true)
 
-~~~~~~~~~~~~
-~~~~~~~
-code with tildes
-~~~~~~~~
-~~~~~~~~~~~~~~~~~~
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20171205_183234221%20(1).jpg?raw=true)
 
-# Simple codeblock with long lines
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20171205_183234233%20(1).jpg?raw=true)
 
-    function myFunction() {
-        alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
-    }
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20171205_173416200.jpg?raw=true)
 
-# Language of Code Blocks
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20171205_173408775.jpg?raw=true)
 
-~~~ ruby
-def what?
-  42
-end
-~~~
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/%EC%B0%8C%EB%A5%B4%EB%A0%88%EA%B8%B0/KakaoTalk_20170929_205020495.jpg?raw=true)
 
-# Highlighted
+그리고 최종 발표 영상과 홍보영상입니다.
 
-## External Gist
+저희 팀 중간 발표 때 제작 한 홍보영상으로 기능은 일맥상통하나 집모양 컨셉의 초기 디자인을 볼수 있습니다.
+<a herf = "https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=36s"> :동영상 보기 https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=36s</a>
 
-<script src="https://gist.github.com/yizeng/9b871ad619e6dcdcc0545cac3101f361.js"></script>
+<iframe width="854" height="480" src="https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=130s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Simple Highlight
+<amp-youtube width="480"
+  height="270"
+  layout="responsive"
+  data-videoid="https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=130s">
+</amp-youtube>
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
 
-## Highlight with long lines
+<p>오픈소스 최종발표 동영상 URL : <a herf = "https://youtu.be/XUpaIdQQ8QM">동영상 보기: https://www.youtube.com/watch?v=XUpaIdQQ8QM </a> </p>
 
-{% highlight c# %}
-public class Hello {
-    public static void Main() {
-        Console.WriteLine("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
-    }
-}
-{% endhighlight %}
+<iframe width="854" height="480" src="https://www.youtube.com/embed/XUpaIdQQ8QM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-## Highlight with line numbers and long lines
-
-{% highlight javascript linenos=table %}
-function myFunction() {
-    alert("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.");
-}
-{% endhighlight %}
-
-[^1]: This is a footnote.
 
 [kramdown]: https://kramdown.gettalong.org/
 [Simple Texture]: https://github.com/yizeng/jekyll-theme-simple-texture

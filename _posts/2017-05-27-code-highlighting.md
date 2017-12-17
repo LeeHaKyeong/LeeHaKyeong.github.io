@@ -33,7 +33,7 @@ redirect_from:
 저희 팀 중간 발표 때 제작 한 홍보영상으로 기능은 일맥상통하나 집모양 컨셉의 초기 디자인을 볼수 있습니다.
 <a herf = "https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=36s"> :동영상 보기 https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=36s</a>
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=JSTm5sqyh6Y&t=130s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/JSTm5sqyh6Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <amp-youtube width="480"
   height="270"

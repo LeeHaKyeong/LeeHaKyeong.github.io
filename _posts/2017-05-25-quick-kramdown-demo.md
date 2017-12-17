@@ -35,8 +35,8 @@ redirect_from:
 
 디자인 사진
 
-![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/KakaoTalk_20171205_173426651.jpg)
-
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/KakaoTalk_20171205_173355338.jpg)
+![smiley](https://github.com/LeeHaKyeong/LeeHaKyeong.github.io/blob/master/KakaoTalk_20171205_173421977.jpg)
 [^1]: 재미있었습니다.
 
 [kramdown]: https://kramdown.gettalong.org/
